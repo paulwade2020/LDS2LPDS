@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDS2LPDS_GUI", "LDS2LPDS_GUI.csproj", "{BB8C934E-C028-48EA-A1AC-36743A93F46E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8C934E-C028-48EA-A1AC-36743A93F46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8C934E-C028-48EA-A1AC-36743A93F46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8C934E-C028-48EA-A1AC-36743A93F46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8C934E-C028-48EA-A1AC-36743A93F46E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADAED36A-ACA2-48E1-BE1C-7C0127E3BB45}
+	EndGlobalSection
+EndGlobal
